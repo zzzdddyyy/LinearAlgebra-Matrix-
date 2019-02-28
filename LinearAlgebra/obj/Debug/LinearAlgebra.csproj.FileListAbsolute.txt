@@ -1,0 +1,9 @@
+H:\BataRobot\软件算法\矩阵求解\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.Form1.resources
+H:\BataRobot\软件算法\矩阵求解\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.Properties.Resources.resources
+H:\BataRobot\软件算法\矩阵求解\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.csproj.GenerateResource.cache
+H:\BataRobot\软件算法\矩阵求解\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.csproj.CoreCompileInputs.cache
+H:\BataRobot\软件算法\矩阵求解\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.exe
+H:\BataRobot\软件算法\矩阵求解\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.pdb
+H:\BataRobot\软件算法\矩阵求解\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.exe
+H:\BataRobot\软件算法\矩阵求解\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.pdb
+H:\BataRobot\软件算法\矩阵求解\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.csprojAssemblyReference.cache
